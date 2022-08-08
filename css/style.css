@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+  font-family: "Work Sans", sans-serif;
+}
+
+main {
+  padding: 2em;
+  margin: 2em;
+  background-color: white;
+  max-width: 800px;
+  border-radius: 15px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2) s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0.5em;
+  margin-bottom: 0.2em;
+}
