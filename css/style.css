@@ -10,6 +10,7 @@ body {
   justify-content: center;
   background-color: aliceblue;
   font-family: "Work Sans", sans-serif;
+  font-size: 11pt;
 }
 
 main {
@@ -29,4 +30,21 @@ h5,
 h6 {
   margin-top: 0.5em;
   margin-bottom: 0.2em;
+}
+
+ol {
+  margin-top: 1em;
+  margin-left: 2em;
+}
+
+img {
+  width: 30%;
+}
+
+.logoErasmus {
+  float: right;
+}
+
+.logoAdvance {
+  float: left;
 }
